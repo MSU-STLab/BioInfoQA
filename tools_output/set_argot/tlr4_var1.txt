@@ -1,0 +1,45 @@
+mf GO:0001875 	lipopolysaccharide receptor activity 	12839.1 	0.333549131272746 	12.8758166443779 	
+mf GO:0004888 	transmembrane signaling receptor activity 	5596.19 	0.314353520998195 	6.44850944480049 	
+
+BIOLOGICAL PROCESS graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+bp GO:0050829 	defense response to Gram-negative bacterium 	696.122 	0.0479885511254978 	13.8735554061622 	
+bp GO:0031663 	lipopolysaccharide-mediated signaling pathway 	644.485 	0.0453949556199947 	14.4238898597859 	
+bp GO:0007165 	signal transduction 	603.804 	0.273458352016586 	6.27713248948363 	
+bp GO:0050707 	regulation of cytokine secretion 	527.534 	0.0447534805886346 	12.9008899298303 	
+bp GO:0034142 	toll-like receptor 4 signaling pathway 	450.425 	0.0453380916847871 	14.7501619295076 	
+bp GO:0002755 	MyD88-dependent toll-like receptor signaling pathway 	427.161 	0.0453268032212563 	13.9518181811547 	
+bp GO:0045087 	innate immune response 	240.778 	0.166485030661812 	7.5402103391295 	
+bp GO:0002376 	immune system process 	148.917 	0.301302171433078 	4.85243165604787 	
+bp GO:0007252 	I-kappaB phosphorylation 	48.1552 	0.00830796526209295 	15.6569352543948 	
+bp GO:0032497 	detection of lipopolysaccharide 	45.2922 	0.0109514822284237 	17.3205907527337 	
+bp GO:0042346 	positive regulation of NF-kappaB import into nucleus 	39.1914 	0.00743365892720891 	15.9504983661901 	
+bp GO:0032496 	response to lipopolysaccharide 	24.1991 	0.0728798695575508 	13.2002768091331 	
+bp GO:0032722 	positive regulation of chemokine production 	21.0853 	0.00859716825787039 	14.6638338460191 	
+bp GO:0032755 	positive regulation of interleukin-6 production 	20.8324 	0.00860244937522088 	14.471123664733 	
+bp GO:0032733 	positive regulation of interleukin-10 production 	17.5711 	0.00734811938905813 	15.6927517549287 	
+bp GO:0032735 	positive regulation of interleukin-12 production 	17.4418 	0.0147644181262513 	15.4948900500776 	
+bp GO:0032757 	positive regulation of interleukin-8 production 	17.366 	0.0148305278339108 	15.1771688813905 	
+bp GO:0032689 	negative regulation of interferon-gamma production 	17.3526 	0.00734821987487233 	15.4971941985625 	
+bp GO:0032728 	positive regulation of interferon-beta production 	17.317 	0.0138569021776776 	15.4520907252279 	
+bp GO:0032715 	negative regulation of interleukin-6 production 	17.0622 	0.00735606679433182 	15.2384742206046 	
+bp GO:0032720 	negative regulation of tumor necrosis factor production 	16.9757 	0.00734583272587673 	15.1704910602479 	
+bp GO:0032760 	positive regulation of tumor necrosis factor production 	16.8934 	0.0147718825755066 	14.9891405793435 	
+bp GO:0032732 	positive regulation of interleukin-1 production 	16.8353 	0.00748662431467352 	15.0455236886336 	
+bp GO:0032729 	positive regulation of interferon-gamma production 	16.7105 	0.00756624865277771 	14.8555224451654 	
+bp GO:0071222 	cellular response to lipopolysaccharide 	16.1759 	0.0527587815393612 	13.6818774089691 	
+bp GO:0071223 	cellular response to lipoteichoic acid 	15.6473 	0.00651455724351862 	16.910375041867 	
+bp GO:0032609 	interferon-gamma production 	11.5212 	0.0213589162393188 	13.3776229434561 	
+bp GO:0009617 	response to bacterium 	10.287 	0.137548446382913 	11.2945522610092 	
+bp GO:0002218 	activation of innate immune response 	5.61205 	0.118975555292041 	9.02216320964878 	
+
+CELLULAR COMPONENT graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+cc GO:0046696 	lipopolysaccharide receptor complex 	5724.48 	0.185544638559132 	13.601859395998 	
+cc GO:0005886 	plasma membrane 	2194.22 	0.278577174360597 	4.92251378668561 	
+cc GO:0016021 	integral component of membrane 	981.581 	0.4017817748858 	3.665435921255 	
+cc GO:0016020 	membrane 	682.208 	0.837864685067736 	2.54804626800535 	
+cc GO:0005737 	cytoplasm 	271.008 	0.0942122757618278 	3.38640613730561 	
+cc GO:0005887 	integral component of plasma membrane 	130.556 	0.0361657934964086 	7.63252685374747 	
+cc GO:0009897 	external side of plasma membrane 	108.281 	0.0281582854067704 	11.3679871016701 	
+cc GO:0031226 	intrinsic component of plasma membrane 	73.1281 	0.0647347796342811 	7.57158271592629 	
+
+© 2009 University of Padova. 

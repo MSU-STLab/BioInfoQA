@@ -1,0 +1,43 @@
+Queries 1 to 1
+Query header	gene name	Description
+Estimated PPV, description	Biological process
+Estimated PPV, GO-id, description	Molecular function
+Estimated PPV, GO-i d, description	Cellular component
+Estimated PPV, GO-id, description	Inverse ec2go, kegg2go
+sp|Q16539|MK14_HUMAN
+Mitogen-activated protein kinase 14
+MAPK14 	
+0.58	Mitogen-activated protein kinase
+	
+bp 0.79	GO:0000165	MAPK cascade
+bp 0.68	GO:0031098	stress-activated protein kinase signaling cascade
+bp 0.60	GO:0014835	myoblast differentiation involved in skeletal muscle regeneration
+bp 0.60	GO:2001184	positive regulation of interleukin-12 secretion
+bp 0.59	GO:1905050	positive regulation of metallopeptidase activity
+bp 0.59	GO:0002741	positive regulation of cytokine secretion involved in immune response
+bp 0.59	GO:0090336	positive regulation of brown fat cell differentiation
+bp 0.58	GO:0090400	stress-induced premature senescence
+bp 0.58	GO:0071223	cellular response to lipoteichoic acid
+bp 0.58	GO:1901741	positive regulation of myoblast fusion
+	
+mf 0.81	GO:0004707	MAP kinase activity
+mf 0.60	GO:0051525	NFAT protein binding
+mf 0.59	GO:0048273	mitogen-activated protein kinase p38 binding
+mf 0.55	GO:0019903	protein phosphatase binding
+mf 0.55	GO:0030554	adenyl nucleotide binding
+mf 0.54	GO:0097367	carbohydrate derivative binding
+mf 0.54	GO:0008144	drug binding
+mf 0.54	GO:0035639	purine ribonucleoside triphosphate binding
+mf 0.36	GO:0008022	protein C-terminus binding
+mf 0.35	GO:0004708	MAP kinase kinase activity
+	
+cc 0.54	GO:0016607	nuclear speck
+cc 0.53	GO:0000922	spindle pole
+cc 0.48	GO:0005829	cytosol
+cc 0.44	GO:0005739	mitochondrion
+cc 0.35	GO:1904813	ficolin-1-rich granule lumen
+cc 0.35	GO:0034774	secretory granule lumen
+cc 0.33	GO:0005576	extracellular region
+	
+0.81	EC:2.7.11.24 	GO:0004707
+0.81	KEGG:R00162 	GO:0004707

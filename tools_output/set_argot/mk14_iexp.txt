@@ -1,0 +1,48 @@
+MOLECULAR FUNCTION graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+mf GO:0004707 	MAP kinase activity 	3274.95 	0.108960334796168 	10.362433494149 	
+mf GO:0016740 	transferase activity 	671.875 	0.532057580705659 	2.51199039831171 	
+mf GO:0004674 	protein serine/threonine kinase activity 	671.811 	0.217927414782064 	6.94862655423837 	
+mf GO:0004672 	protein kinase activity 	505.909 	0.325408563585787 	5.32102005947534 	
+mf GO:0016301 	kinase activity 	392.684 	0.424906377098994 	4.35807009852515 	
+
+BIOLOGICAL PROCESS graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+bp GO:0098586 	cellular response to virus 	342.741 	0.0129904678012502 	9.05533749130625 	
+bp GO:0006468 	protein phosphorylation 	235.997 	0.0872690619220429 	7.72233649340718 	
+bp GO:1901741 	positive regulation of myoblast fusion 	177.215 	0.0156510571942065 	16.1419357563921 	
+bp GO:0001502 	cartilage condensation 	176.72 	0.0136668307500834 	15.8422382471959 	
+bp GO:0045663 	positive regulation of myoblast differentiation 	171.009 	0.0156946428610019 	15.4902976195034 	
+bp GO:0010831 	positive regulation of myotube differentiation 	169.075 	0.031302114388413 	15.4005218348623 	
+bp GO:0002062 	chondrocyte differentiation 	167.527 	0.0146022618246347 	13.6352891199677 	
+bp GO:1900015 	regulation of cytokine production involved in inflammatory response 	158.429 	0.0129468429705658 	15.8260828069736 	
+bp GO:0090336 	positive regulation of brown fat cell differentiation 	142.401 	0.0136228965263274 	17.1205696188404 	
+bp GO:0032495 	response to muramyl dipeptide 	137.054 	0.013666627695781 	16.0416430052433 	
+bp GO:0031663 	lipopolysaccharide-mediated signaling pathway 	124.036 	0.0137518850538839 	14.4238898597859 	
+bp GO:0032496 	response to lipopolysaccharide 	113.512 	0.0404537196118965 	13.2002768091331 	
+bp GO:0071222 	cellular response to lipopolysaccharide 	106.304 	0.0267430697322767 	13.6818774089691 	
+bp GO:0030316 	osteoclast differentiation 	100.067 	0.0145582393886882 	13.7025553723206 	
+bp GO:0007519 	skeletal muscle tissue development 	85.4204 	0.0139228548654835 	12.8832476773891 	
+bp GO:0001525 	angiogenesis 	79.0934 	0.0146213259935971 	11.9259247846889 	
+bp GO:0051146 	striated muscle cell differentiation 	77.6158 	0.0463298618038443 	11.7811776580991 	
+bp GO:0006357 	regulation of transcription from RNA polymerase II promoter 	70.0836 	0.0321084937543525 	9.67824477756992 	
+bp GO:0048010 	vascular endothelial growth factor receptor signaling pathway 	68.5999 	0.0139281159798132 	14.1461147437337 	
+bp GO:0090090 	negative regulation of canonical Wnt signaling pathway 	68.1568 	0.0136671355208557 	14.0578347571936 	
+bp GO:0000077 	DNA damage checkpoint 	67.7234 	0.0142250111793616 	12.33390667946 	
+bp GO:0045944 	positive regulation of transcription from RNA polymerase II promoter 	67.2561 	0.0150823626012989 	11.0993759552607 	
+bp GO:0018105 	peptidyl-serine phosphorylation 	66.8469 	0.0150443210015891 	12.4894809281294 	
+bp GO:0000902 	cell morphogenesis 	60.4697 	0.0187524583418833 	9.11938113151138 	
+bp GO:0035556 	intracellular signal transduction 	59.9991 	0.0747966839537128 	7.31113668962035 	
+bp GO:0007178 	transmembrane receptor protein serine/threonine kinase signaling pathway 	53.9587 	0.0153638166845908 	11.1039846516489 	
+bp GO:0000165 	MAPK cascade 	52.7871 	0.0342815175428791 	10.1277961760691 	
+bp GO:0006355 	regulation of transcription, DNA-templated 	42.7759 	0.0495369403008718 	7.06376030136058 	
+bp GO:0006974 	cellular response to DNA damage stimulus 	39.0357 	0.0425609629505207 	8.04926884785152 	
+
+CELLULAR COMPONENT graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+cc GO:0000922 	spindle pole 	1292.72 	0.0817279135310014 	10.9016832513267 	
+cc GO:0070062 	extracellular exosome 	980.199 	0.0774900654534773 	9.08167767902154 	
+cc GO:0005654 	nucleoplasm 	919.67 	0.0944401471119052 	7.90582801651414 	
+cc GO:0005634 	nucleus 	797.007 	0.209469988271012 	5.28969668787101 	
+cc GO:0005737 	cytoplasm 	284.321 	0.340601810515089 	3.38640613730561 	
+cc GO:0005739 	mitochondrion 	276.953 	0.0875324847494588 	4.76894599817805 	
+cc GO:0005622 	intracellular 	95.1582 	0.751430791993048 	1.67279064811981 	
+cc GO:0005623 	cell 	61.062 	0.89011692158879 	1.05187508428487 	
+

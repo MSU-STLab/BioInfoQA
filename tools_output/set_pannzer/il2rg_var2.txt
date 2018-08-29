@@ -1,0 +1,32 @@
+Queries 1 to 1
+Query header	gene name	Description
+Estimated PPV, description	Biological process
+Estimated PPV, GO-id, description	Molecular function
+Estimated PPV, GO-i d, description	Cellular component
+Estimated PPV, GO-id, description	Inverse ec2go, kegg2go
+sp|P31785|IL2RG_HUMAN
+Cytokine receptor common subunit gamma
+IL2RG 	
+0.94	Common cytokine receptor gamma chain variant b
+	
+bp 0.77	GO:0019221	cytokine-mediated signaling pathway
+bp 0.40	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+bp 0.39	GO:0033089	positive regulation of T cell differentiation in thymus
+bp 0.39	GO:0045579	positive regulation of B cell differentiation
+bp 0.38	GO:0098756	response to interleukin-21
+bp 0.38	GO:0071355	cellular response to interleukin-9
+bp 0.38	GO:0098761	cellular response to interleukin-7
+bp 0.38	GO:0071350	cellular response to interleukin-15
+bp 0.37	GO:0071352	cellular response to interleukin-2
+bp 0.37	GO:0071353	cellular response to interleukin-4
+	
+mf 0.78	GO:0004896	cytokine receptor activity
+mf 0.42	GO:0019976	interleukin-2 binding
+mf 0.36	GO:0005088	Ras guanyl-nucleotide exchange factor activity
+	
+cc 0.40	GO:0009897	external side of plasma membrane
+cc 0.35	GO:0005768	endosome
+cc 0.35	GO:0005829	cytosol
+cc 0.35	GO:0005887	integral component of plasma membrane
+	
+

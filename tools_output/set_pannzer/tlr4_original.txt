@@ -1,0 +1,34 @@
+Queries 1 to 1
+Query header	gene name	Description
+Estimated PPV, description	Biological process
+Estimated PPV, GO-id, description	Molecular function
+Estimated PPV, GO-i d, description	Cellular component
+Estimated PPV, GO-id, description	Inverse ec2go, kegg2go
+sp|O00206|TLR4_HUMAN
+Toll-like receptor 4
+TLR4 	
+0.94	Toll like receptor 4
+	
+bp 0.85	GO:0034142	toll-like receptor 4 signaling pathway
+bp 0.85	GO:0042116	macrophage activation
+bp 0.85	GO:0031663	lipopolysaccharide-mediated signaling pathway
+bp 0.83	GO:0050829	defense response to Gram-negative bacterium
+bp 0.83	GO:0002755	MyD88-dependent toll-like receptor signaling pathway
+bp 0.82	GO:0050707	regulation of cytokine secretion
+bp 0.78	GO:0045087	innate immune response
+bp 0.56	GO:1900227	positive regulation of NLRP3 inflammasome complex assembly
+bp 0.56	GO:0050702	interleukin-1 beta secretion
+bp 0.53	GO:0032707	negative regulation of interleukin-23 production
+	
+mf 0.85	GO:0001875	lipopolysaccharide receptor activity
+mf 0.69	GO:0004888	transmembrane signaling receptor activity
+mf 0.41	GO:0001530	lipopolysaccharide binding
+mf 0.34	GO:0046982	protein heterodimerization activity
+mf 0.34	GO:0005102	signaling receptor binding
+	
+cc 0.85	GO:0046696	lipopolysaccharide receptor complex
+cc 0.43	GO:0005769	early endosome
+cc 0.38	GO:0005887	integral component of plasma membrane
+cc 0.35	GO:0009897	external side of plasma membrane
+cc 0.35	GO:0048471	perinuclear region of cytoplasm
+cc 0.35	GO:0010008	endosome membrane

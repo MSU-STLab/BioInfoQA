@@ -1,0 +1,18 @@
+
+MOLECULAR FUNCTION graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+mf GO:0004896 	cytokine receptor activity 	20945.3 	0.797653225968951 	10.0966300660627 	
+mf GO:0004911 	interleukin-2 receptor activity 	21.7027 	0.0190217706051039 	15.3376087368663 	
+
+BIOLOGICAL PROCESS graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+bp GO:0019221 	cytokine-mediated signaling pathway 	11049.9 	0.506483715776601 	9.69947608591924 	
+bp GO:0045621 	positive regulation of lymphocyte differentiation 	1346.87 	0.142196903047241 	14.2080282782786 	
+bp GO:0032831 	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation 	890.925 	0.0353820400760742 	17.9447450618067 	
+bp GO:0033089 	positive regulation of T cell differentiation in thymus 	818.495 	0.0353834326771164 	16.4845808521204 	
+bp GO:0010628 	positive regulation of gene expression 	67.7748 	0.0362272072038137 	10.0686431141152 	
+bp GO:0043547 	positive regulation of GTPase activity 	8.63191 	0.0123960293578182 	10.7705926357301 	
+bp GO:0000165 	MAPK cascade 	7.91762 	0.0141855351550807 	10.1277961760691 	
+bp GO:0007165 	signal transduction 	5.41264 	0.552406619512446 	6.27713248948363 	
+
+CELLULAR COMPONENT graphical view GO ID 	Name 	Total Score 	Internal Confidence 	Information Content 	BLAST hits 	HMMer models
+cc GO:0016021 	integral component of membrane 	2185.01 	0.432964545355198 	3.665435921255 	
+cc GO:0016020 	membrane 	1862.84 	0.96406049243715 	2.54804626800535

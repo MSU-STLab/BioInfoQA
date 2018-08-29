@@ -1,0 +1,39 @@
+Queries 1 to 1
+Query header	gene name	Description
+Estimated PPV, description	Biological process
+Estimated PPV, GO-id, description	Molecular function
+Estimated PPV, GO-i d, description	Cellular component
+Estimated PPV, GO-id, description	Inverse ec2go, kegg2go
+sp|P14679|TYRO_HUMAN
+Tyrosinase
+TYR 	
+0.61	Tyrosinase precursor
+	
+bp 0.59	GO:0042438	melanin biosynthetic process
+bp 0.57	GO:0048538	thymus development
+bp 0.56	GO:0043473	pigmentation
+bp 0.54	GO:0008283	cell proliferation
+bp 0.52	GO:0055114	oxidation-reduction process
+bp 0.42	GO:0033280	response to vitamin D
+bp 0.41	GO:0051591	response to cAMP
+bp 0.40	GO:0009411	response to UV
+bp 0.35	GO:0007601	visual perception
+bp 0.35	GO:0006570	tyrosine metabolic process
+	
+mf 0.71	GO:0004503	monophenol monooxygenase activity
+mf 0.53	GO:0046872	metal ion binding
+mf 0.52	GO:0042803	protein homodimerization activity
+mf 0.52	GO:0046982	protein heterodimerization activity
+	
+cc 0.58	GO:0042470	melanosome
+cc 0.54	GO:0048471	perinuclear region of cytoplasm
+cc 0.43	GO:0043231	intracellular membrane-bounded organelle
+cc 0.43	GO:0090741	pigment granule membrane
+cc 0.42	GO:0045009	chitosome
+cc 0.40	GO:0030659	cytoplasmic vesicle membrane
+cc 0.39	GO:0098805	whole membrane
+cc 0.38	GO:0005829	cytosol
+cc 0.34	GO:0005798	Golgi-associated vesicle
+cc 0.30	GO:0016021	integral component of membrane
+	
+0.71	EC:1.14.18.1 	GO:0004503
